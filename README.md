@@ -64,7 +64,7 @@ Readers are encouraged to treat this material as **orientation**, not exploratio
 
 ## Relation to the Dynamic Field Model (DFM)
 
-MMM is independent from, but lightly contextualised by, practical navigational frameworks such as the **Dynamic Field Model (DFM)** / Signal OS.
+MMM is independent from, but lightly contextualised by, practical navigational frameworks such as the **Dynamic Field Model (DFM)**.
 
 - DFM focuses on coherence, regulation, and differentiation.
 - MMM focuses on interpretation safety and meaning literacy.
