@@ -71,6 +71,8 @@ MMM is independent from, but lightly contextualised by, practical navigational f
 
 DFM is not required to read MMM, but may be helpful for readers interested in grounding and integration.
 
+[Click here to view DFM](https://davidabau.github.io/Dynamic-Field-Model/)
+
 ---
 
 ## How to Read This Repository
