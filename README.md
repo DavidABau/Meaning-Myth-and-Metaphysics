@@ -99,6 +99,8 @@ Its purpose is not to grow indefinitely, but to make itself **less necessary ove
 
 If this framework helps you think more clearly and safely about meaning systems, it has done its job.
 
+[Start Here](https://github.com/DavidABau/Meaning-Myth-and-Metaphysics/blob/main/00-orientation/how-to-read-this.md)
+
 ---
 
 ## License and Use
