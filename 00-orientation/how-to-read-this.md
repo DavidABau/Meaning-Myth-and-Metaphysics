@@ -87,7 +87,7 @@ There is no benefit to intensity.
 
 ## Relationship to Other Frameworks
 
-MMM may reference other models (such as the Dynamic Field Model / Signal OS) for context.
+MMM may reference other models (such as the Dynamic Field Model) for context.
 
 These references are optional.
 They are not prerequisites.
