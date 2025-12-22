@@ -105,4 +105,19 @@ If this framework helps you think more clearly and safely about meaning systems,
 
 This project is provided for educational and explanatory purposes.
 
-It may be referenced, adapted, or built upon with attribution, provided its core intent — clarity, containment, and preservation of agency — is respected.
+This project is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+
+This means:
+
+✔ You may share the material in any medium or format
+✔ You must credit the original author
+✖ You may not use the material for commercial purposes
+✖ You may not modify, remix, transform, or build upon the material
+The purpose of this license is to:
+
+Preserve coherence and integrity of the Meaning, Myth, and Metaphysics (MMM) Project
+Prevent harmful or misleading derivative versions
+Ensure the framework remains accessible and free for personal and educational use
+Prevent commercial exploitation or repurposing without permission
+For full legal terms, see the LICENSE file or visit:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
