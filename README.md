@@ -6,6 +6,8 @@ It approaches mythological, mystical, and metaphysical traditions not as truth c
 
 MMM is designed to **demystify**, not to initiate.
 
+MMM describes patterns of engagement, not individual psychology.
+
 ---
 
 ## Core Idea
