@@ -10,6 +10,14 @@ MMM describes patterns of engagement, not individual psychology.
 
 ---
 
+##Intent and Use
+
+Meaning, Myth, and Metaphysics (MMM) is intended as an interpretive framework for understanding how meaning systems affect human cognition, identity, and agency. It exists to clarify, contextualise, and demystify mythological, mystical, and metaphysical material — not to promote belief, practice, or experiential engagement.
+
+MMM may be used for educational, analytical, or reflective purposes, provided it is not used to assert metaphysical authority, encourage identity dissolution, or position interpretation as superior to lived responsibility. The framework is explicitly designed to preserve agency, encourage restraint, and support disengagement rather than dependence. Uses that invite immersion, initiation, or identity capture are inconsistent with its intent.
+
+---
+
 ## Core Idea
 
 Most mythological, mystical, and metaphysical systems can be understood along a single underlying axis:
