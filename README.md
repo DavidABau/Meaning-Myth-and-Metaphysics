@@ -139,3 +139,18 @@ Ensure the framework remains accessible and free for personal and educational us
 Prevent commercial exploitation or repurposing without permission
 For full legal terms, see the LICENSE file or visit:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---
+
+## Relationship to Cognitive Field Architecture (CFA)
+
+Meaning–Myth–and–Metaphysics (MMM) explores how humans create and inhabit symbolic, mythic, and metaphysical meaning frameworks.
+This work is grounded by the Cognitive Field Architecture, which explains how awareness is structured and regulated, and how experiences of expansion, contraction, boundary-softening, or heightened symbolism arise cognitively rather than requiring metaphysical explanation.
+
+CFA → architecture of awareness
+
+MMM → how awareness builds meaning worlds
+
+[Go here for CFA](https://davidabau.github.io/Cognitive-Field-Architecture/)
+
+---
