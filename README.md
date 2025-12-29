@@ -1,3 +1,7 @@
+For a broader understanding of how this work fits into the wider framework of related projects, see the Orientation to the Corpus [(link)](https://davidabau.github.io/Human-AI-Coherence-Corpus/)
+
+---
+
 # Meaning, Myth, and Metaphysics (MMM)
 
 Meaning, Myth, and Metaphysics (MMM) is a framework for understanding how meaning systems shape human experience.
