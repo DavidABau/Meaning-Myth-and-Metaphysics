@@ -13,6 +13,11 @@ MMM is designed to **demystify**, not to initiate.
 MMM describes patterns of engagement, not individual psychology.
 
 ---
+MMM in one glance: meaning emerges from reality but can drift into abstraction—coherence maintains alignment, distortion creates disconnection.
+
+![MMM visual](https://github.com/DavidABau/Meaning-Myth-and-Metaphysics/blob/main/MMMimage.png)
+
+---
 
 ## Intent and Use
 
